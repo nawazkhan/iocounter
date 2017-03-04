@@ -2,7 +2,7 @@
 "name": "io2017",
 "description": "google IO countdown for 2017",
 "version": "1.0.0",
-"main": "index.html",
+"main": "app.js",
 "engines": {
  "node": "7.7.1"
  }
