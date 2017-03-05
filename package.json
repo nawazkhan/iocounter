@@ -8,5 +8,7 @@
  },
  "dependencies": {
  	"express": "4.15.0"
- }
+ },
+"license": "MIT",
+"keywords": ["countdown", "timer", "google", "I/O", "2017", "javascript", "timer"]
 }
